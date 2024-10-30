@@ -1,3 +1,5 @@
 {
-    url: "http://melo.pylex.xyz:9350"
+    "apiSeek": "http://melo.pylex.xyz:9350",
+    "apiEthos": "https://ethos.kys.gay",
+    "apiDlr": "https://dlr.kys.gay"
 }
